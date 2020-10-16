@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<link rel='icon'
+type='image'
+href=img/favicon.ico;>
+
+<meta charset="UTF-8" name=viewport content="width=device-width, initial-scale=1">
+<title>upstairsmic.com</title>
+<style>
+
+body {background-image: url(img/Upstairs.jpg);
+background-size: height=1000 width=1000;
+background-repeat: no-repeat;
+background-position: 50% 100px;
+background-attachment: fixed;}
+
+h1 {color: #09BD00;
+font-family:arial rounded MT Bold;
+font-size:300%;
+text-align:center;}
+
+pre {color: #09BD00;
+font-family:arial rounded MT Bold;
+font-size:200%;
+text-align:center;}
+
+a {color: #09BD00;
+font-family:arial rounded MT Bold;
+font-size:110%;
+align:center;}
+a:link    {color:#95FF90; background-color:transparent; text-decoration:none}
+a:visited {color:#95FF90; background-color:transparent; text-decoration:none}
+a:hover   {color:#09BD00; background-color:transparent; text-decoration:none}
+a:active  {color:#09BD00; background-color:transparent; text-decoration:none}
+
+</style>
+</head>
+
+<div style="text-align: center">
+<a href=https://upstairsmic.github.io/Neutrons.m4a target="_blank">
+<img src=img/Neutrons.jpg alt=Neutrons height=250 width=250></a>
+</div>
+
+<pre>
+Recently the <a href=https://www.ligo.caltech.edu/news/ligo20160211 target="_blank">LIGO<a/>
+scientists have detected massive 
+gravity waves travelling through space.
+
+These 'Gravity Waves' are caused by two blackholes
+each about 30 times the mass of our sun
+spinning & merging together into one.
+
+The forces involved are so unimaginably huge
+releasing 50 times more energy than 
+all the stars in the observable universe
+happening in a fraction of a second.
+
+These gravitational wave frequencies can be translated into sound,
+Stretching & rearranging these sounds helped to make this track.
+
+The first rising break is of two Neutron stars
+encircling each other, almost merging then falling back away.
+
+This 'Neutron Star Dance' is impossible, 
+as once they are trapped in each others gravity 
+the stars will most certainly collide,
+An event that could even create a black hole.
+
+The second buildup is the gravitational wave sound of
+two blackholes merging in an elliptical orbit.
+
+Imagine that this composition is of the instruments from a 
+future spacecraft would sound like as it zips through
+spacetime avoiding these cataclysmic incidents.
+
+It is a shame electronic music is not more popular where i'm from,
+as it seems the thing that holds us all together sound just like it.
+
+Credits to the Laser Interferometer Gravitational-Wave Observatory 
+also to Professor Scott A Hughes for the Gravity Wave samples!
+
+<b>Update 2020<b> - <a href=https://music.youtube.com/watch?v=ChWqWsZk_D0&list=RDAMVMChWqWsZk_D0 target="_blank">This</a> was created in 2016,
+it has only just occurred to me that if living beings craft did hear this track 
+it is something they would immediately identify as an intelligent signal,
+Possibly even as an intergalactic S.O.S.
+
+</pre>
+
+<div style="text-align: center">
+<a href=index.html>
+<img src=img/Upinthebay.jpg alt=UpintheBay height=400 width=500></a>
+</div>
+
+</body>
+</html>
